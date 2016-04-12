@@ -1,0 +1,7 @@
+D:\Yura\Temp\PMCTask\PMCTests\bin\Debug\PMCTests.dll
+D:\Yura\Temp\PMCTask\PMCTests\bin\Debug\PMCTests.pdb
+D:\Yura\Temp\PMCTask\PMCTests\bin\Debug\PMC.dll
+D:\Yura\Temp\PMCTask\PMCTests\bin\Debug\PMC.pdb
+D:\Yura\Temp\PMCTask\PMCTests\obj\Debug\PMCTests.csprojResolveAssemblyReference.cache
+D:\Yura\Temp\PMCTask\PMCTests\obj\Debug\PMCTests.dll
+D:\Yura\Temp\PMCTask\PMCTests\obj\Debug\PMCTests.pdb
